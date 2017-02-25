@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DatebaseTest.iml" filepath="$PROJECT_DIR$/DatebaseTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat/chat.iml" filepath="$PROJECT_DIR$/chat/chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clearEditText/clearEditText.iml" filepath="$PROJECT_DIR$/clearEditText/clearEditText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databaseTest/databaseTest.iml" filepath="$PROJECT_DIR$/databaseTest/databaseTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/downloadServiceTest/downloadServiceTest.iml" filepath="$PROJECT_DIR$/downloadServiceTest/downloadServiceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lbstest/lbstest.iml" filepath="$PROJECT_DIR$/lbstest/lbstest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/litepaltest/litepaltest.iml" filepath="$PROJECT_DIR$/litepaltest/litepaltest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationtest/notificationtest.iml" filepath="$PROJECT_DIR$/notificationtest/notificationtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttptest/okhttptest.iml" filepath="$PROJECT_DIR$/okhttptest/okhttptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewtest/recyclerviewtest.iml" filepath="$PROJECT_DIR$/recyclerviewtest/recyclerviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webviewtest/webviewtest.iml" filepath="$PROJECT_DIR$/webviewtest/webviewtest.iml" />
+    </modules>
+  </component>
+</project>

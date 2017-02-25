@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/id_btn_local"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="从本地读取"/>
+
+    <Button
+        android:id="@+id/id_btn_net"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:text="从网络读取（OkHttp）"/>
+
+    <Button
+        android:id="@+id/id_btn_httpUtil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:text="使用HttpUtil获得json并解析"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/id_tv_result"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="hello world"/>
+    </ScrollView>
+
+
+</LinearLayout>

@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView tv_myLocation;
 
-    private MapView mv_baiduMap ;//百度地图的地图控件
+    private MapView mv_baiduMap ;//百度地图的地图控件，妈的忘记了查看status
 
     private Handler handler = new Handler(){
         @Override
